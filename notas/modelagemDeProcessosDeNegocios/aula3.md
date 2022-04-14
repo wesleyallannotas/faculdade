@@ -1,3 +1,8 @@
+# Espera-se que voce:
+- Conheça o modelo e notação de Processos de Negócio;
+- Aprenda sobre as definições, origens, objetivos e características do BPMN;
+- Entenda o porquê utilizar a modelagem de processos, e como são organizados submodelos dentro de um diagrama.
+
 # BPMN
 *Business Process Model and Notation* (Modelagem e notação de processos de negócios)
 

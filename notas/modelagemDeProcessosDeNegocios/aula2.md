@@ -1,3 +1,9 @@
+# Espera-se que voce:
+- Conheça a ABPMP - Association Of Business Process Management Professionals International, o Guia BPM CBOK® e a Certificação BPM;
+- Associe aspectos de Gerenciamento de Processos de Negócio e o Guia BPM CBOK®;
+- Compreenda operações de Negócio no Guia BPM CBOK®;
+- Identifique e relacione as áreas do gerenciamento de Processos de Negócio.
+
 # Atuação Global
 
 - Association Of Business Process Management Professionals International  

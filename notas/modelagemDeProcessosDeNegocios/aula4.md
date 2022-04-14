@@ -1,3 +1,7 @@
+# Espera-se que voce:
+- Aprenda sobre Modelagem;
+- Conheça, diferencie e aplique as categorias de elementos da simbologia de fluxograma de processo BPMN (5).
+
 # Categorias de Elementos de *BPMN*
 
 *BPMN* feito através de um diagrama simples, com um pequeno conjunto de elementos gráficos, assim trazendo facilidade para os usuários, ficando de **fácil entendimento o fluxo e o processo**

@@ -1,3 +1,8 @@
+# Espera-se que voce:
+- Compreenda o que é Gerenciamento de Processos de Negócio;
+- Aplique conceitos, definições e características dos Processos de Negócio;
+- Desenvolva senso crítico quanto a instrumentos de Gestão Organizacional.
+
 # O que e?
 
 - Negócios - Pessoas exercem **interação** para executar um conjunto de atividades, e essa atividade entrega **valor para os clientes** e gera **retorno as partes interessadas**
