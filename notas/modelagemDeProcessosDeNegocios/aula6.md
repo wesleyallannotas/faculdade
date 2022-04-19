@@ -1,3 +1,7 @@
+# Espera-se que:
+- Aprenda sobre os principais símbolos usados na notação BPMN 2.0;
+- Amplie conhecimentos técnicos sobre modelagem.
+
 # Tipos principais
 
 ![Tipos Principais](./aula6/tiposPrincipais.jpg)
