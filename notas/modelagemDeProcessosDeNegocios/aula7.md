@@ -11,3 +11,5 @@ Determinada empresa destinará determinado colaborador para atividade externa em
 O colaborador (Solicitante) requisitará ao seu gestor imediato passagens para a viagem e também adiantamento de valores para cobertura de despesas comuns (hospedagem, alimentação, traslados, entre outros).  
 
 Realizado o procedimento internamente (envolvendo departamentos Administrativo e Financeiro), o mesmo seguirá com a agenda frente ao cliente, devendo executar atividades profissionais e ao retorno prestar contas do valor sua posse.
+
+![Exercicio](./aula7/Solicita%C3%A7%C3%A3o%20de%20Viagem%20Diagrama.png)
